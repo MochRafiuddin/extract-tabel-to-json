@@ -59,7 +59,7 @@ A simple web-based tool to extract tables from PDF files using Camelot. Built wi
 
 Here is an example of the app in action:
 
-![Table Extractor UI](images/screenshot1.png)
+![Table Extractor UI](images/screenshot.png)
 
 ---
 
