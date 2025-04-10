@@ -1,0 +1,1361 @@
+[
+  [
+    {
+      "0": "Table 1. General requirements for all materials",
+      "1": "",
+      "2": "",
+      "3": ""
+    },
+    {
+      "0": "Substance",
+      "1": "Requirements",
+      "2": "Test method",
+      "3": "Documentation"
+    },
+    {
+      "0": "Biocides of all kinds",
+      "1": "Biocides added in order to impart \nproperties to the final product are \nallowed only with approval from IKEA. \nThis includes any addition of biocides for \npreservation/protection during transport \nor storage of the final IKEA product (e.g. \nantimould treatment).2  \nThis requirement is not relevant for the \nmaterials glass, ceramics and metal.",
+      "2": "",
+      "3": "SD"
+    },
+    {
+      "0": "Cadmium and its \ncompounds",
+      "1": "Not allowed to be used. \nContamination limit value: 50 mg \ncadmium/kg. \nAdditionally, for glass, ceramic glazes \nand enamel: \nMaximum contamination level in stains \nor pigment is 600 mg/kg (calculated on \nthe raw stain or pigment before it is \nmixed into glaze, glass or used for \ndecoration).",
+      "2": "Total digestion (e.g. \nhydrofluoric acid) \nand AAS (Atomic \nAbsorption \nSpectroscopy) or \nICP (Inductively \nCoupled Plasma).",
+      "3": "SD"
+    },
+    {
+      "0": "CMR substances \ncategories 1 or 2 \n(Carcinogens, \nMutagens and \nReprotoxins).",
+      "1": "CMR substances are not allowed to be \nused. \nContamination limit value: 0.10 %. \nException: boron compounds in heat- \nresistant glass.",
+      "2": "Screening test. \nDifferent \nextraction and \nanalysis methods \ndepending on \nwhich materials \nand substances to \nbe tested.",
+      "3": "SD"
+    },
+    {
+      "0": "Fragrances",
+      "1": "Fragrances, perfumes and masking \nagents are not allowed to be used without \napproval from IKEA.",
+      "2": "",
+      "3": "SD"
+    },
+    {
+      "0": "Hazardous waste in \nrecycled materials",
+      "1": "It is not allowed to use any hazardous \nwaste in any materials for IKEA articles \nunless this is in accordance with permits \nfor the recycling of such hazardous waste. \nWaste is defined as hazardous if it is \nclassified as hazardous either in the \ncountry of production of the IKEA article \n(or components thereof) or in the country \nfrom which such waste material may \nhave been exported.",
+      "2": "",
+      "3": "SD"
+    }
+  ],
+  [
+    {
+      "0": "Table 1. General requirements for all materials",
+      "1": "",
+      "2": "",
+      "3": ""
+    },
+    {
+      "0": "Substance",
+      "1": "Requirements",
+      "2": "Test method",
+      "3": "Documentation"
+    },
+    {
+      "0": "Lead and its \ncompounds",
+      "1": "Not allowed to be used. \nContamination limit value: 90 mg \nlead/kg. \nAdditionally, for glass, ceramic glazes \nand enamel: \nMaximum contamination level in stains \nor pigment is 600 mg/kg (calculated on \nthe raw stain or pigment before it is \nmixed into glaze, glass or used for \ndecoration).",
+      "2": "Total digestion (e.g. \nhydrofluoric acid) \nand AAS (Atomic \nAbsorption \nSpectroscopy) or \nICP (Inductively \nCoupled Plasma).",
+      "3": "SD"
+    },
+    {
+      "0": "Other SVHC \n(Substances of Very \nHigh Concern)",
+      "1": "Other SVHC are not allowed to be used. \nContamination limit value: 0.10 %. \nThis demand becomes valid for any new \nsubstance 3 months after publication \ndate on the ECHA-list.",
+      "2": "Screening test. \nDifferent extraction \nand analysis \nmethods depending \non which materials \nand substances to be \ntested.",
+      "3": "SD"
+    },
+    {
+      "0": "PBT-substances \n(Persistent, \nBioaccumulating and \nToxic substances) \nand \nvPvB-substances  \n(very Persistent very \nBioaccumulating \nsubstances)",
+      "1": "PBT and vPvB substances are not allowed \nto be used. \nContamination limit value: 0.10 %.",
+      "2": "Screening test. \nDifferent extraction \nand analysis \nmethods depending \non which materials \nand substances to be \ntested.",
+      "3": "SD"
+    }
+  ],
+  [
+    {
+      "0": "Table 2. Solid wood, wood-based, and natural materials",
+      "1": "",
+      "2": "",
+      "3": ""
+    },
+    {
+      "0": "Substance",
+      "1": "Requirements",
+      "2": "Test method",
+      "3": "Documentation"
+    },
+    {
+      "0": "Lead and its \ncompounds in \nparticleboard and wet- \nand dry-process fibre-\nboard",
+      "1": "Requirement as stated \nin section 2. Here: extra \ndocumentation require-\nment due to risk of \ncontamination in boards \nmade of recycled \nmaterials from post-\nconsumer waste.",
+      "2": "• \nMaterials containing \n>30 % recycled wood \nmaterial from post-\nconsumer waste. \n• \nOthers.",
+      "3": "SD and TR \nSD"
+    },
+    {
+      "0": "Lindane",
+      "1": "Not allowed to be used. \nContamination limit \nvalue: 1.0 mg/kg.",
+      "2": "Extraction and GC-MS \n• \nRubber wood and board \nmaterials that contain \n>30 % recycled wooden \nmaterial from post-\nconsumer waste. \n• \nOthers.",
+      "3": "SD and TR \nSD"
+    },
+    {
+      "0": "Organotin \ncompounds",
+      "1": "No kind of organotin \ncompounds are allowed \nto be used.  \nContamination limit \nvalue: Sum of all \ncompounds listed in \nAppendix C: 2.5 mg/kg \n(2500 µg/kg).",
+      "2": "Extraction and GC/MS",
+      "3": "SD"
+    },
+    {
+      "0": "Pentachlorophenol \n(PCP) including \nsalts and esters of \nPCP",
+      "1": "Not allowed to be used. \nContamination limit \nvalue: 3.0 mg/kg.",
+      "2": "CEN/TR 14823:2004 \n• \nRubber wood and board \nmaterials that contain \n>30 % recycled wooden \nmaterial from post-\nconsumer waste. \n• \nOthers.",
+      "3": "SD and TR \nSD"
+    }
+  ],
+  [
+    {
+      "0": "Table 2. Solid wood, wood-based, and natural materials",
+      "1": "",
+      "2": "",
+      "3": ""
+    },
+    {
+      "0": "Substance",
+      "1": "Requirements",
+      "2": "Test method",
+      "3": "Documentation"
+    },
+    {
+      "0": "Post-consumer \nrecycled material  \nin particleboard and \nwet- and dry-process \nfibre-board.",
+      "1": "Boards produced with \nany proportion of post-\nconsumer recycled \nmaterials shall be \nproduced with a \ndocumented quality \nassurance program for \nrecycled material with \nrespect to heavy metals \nand other hazardous \nsubstances that might \noccur.  \nIf >30 % post-consumer \nrecycled material is used \nin the production of \nboard for IKEA \nproducts, the Q.A. \nprogram shall involve \nmonitoring by a third \nparty quality control \norganisation.",
+      "2": "",
+      "3": "SD from the board \nmanufacturer"
+    },
+    {
+      "0": "Radioactivity",
+      "1": "Maximum level: \n300 Bq/kg.",
+      "2": "Gamma spectroscopy.",
+      "3": "For wood (solid \nwood, veneer and \nother raw material \nfor wood-based \nboards) that comes \nfrom areas of \nUkraine, Belarus, \nRussia, Austria, \nPoland, Finland and \nSweden (countries \naffected by the \nChernobyl fall-out) \nwith >1 Curie \nCesium-137 fallout \nper km2: \n•  TR (testing \nfrequency as per \nagreement \nbetween IKEA and \nsupplier).3 \nFor all other such \nmaterial: \n• SD that material \ndoes not come \nfrom areas with \nfall-out >1 Curie \nper km2."
+    }
+  ],
+  [
+    {
+      "0": "Table 2. Solid wood, wood-based, and natural materials",
+      "1": "",
+      "2": "",
+      "3": ""
+    },
+    {
+      "0": "Substance",
+      "1": "Requirements",
+      "2": "Test method",
+      "3": "Documentation"
+    },
+    {
+      "0": "Wood preservatives \nin rubberwood and \nfruit-tree wood",
+      "1": "Not allowed to be used \nwithout approval from \nIKEA. \nContamination limit \nvalue migration of \nboron and its \ncompounds: 100 mg \nboron/kg.",
+      "2": "If the wood is coated, the \ncoating shall be removed \nbefore testing. \nDIN 53160 (extraction with \nsynthetic perspiration \nsolution, 16h, 23 °C) \nfollowed by  \nEN ISO 11885 (ICP/AES \nanalysis).",
+      "3": "SD"
+    }
+  ],
+  [
+    {
+      "0": "T\nable 3. Requirements for paper and cardboard materials",
+      "1": "",
+      "2": "",
+      "3": ""
+    },
+    {
+      "0": "Substance",
+      "1": "Requirement",
+      "2": "Test method",
+      "3": "Documentation"
+    },
+    {
+      "0": "Azodyes capable \nof releasing \ncarcinogenic \narylamines  \n(see Appendix A) \nin dyed or printed \nmaterials",
+      "1": "Not allowed to be used. \nContamination limit values for each \narylamine: 20 mg/kg product.",
+      "2": "EN 14362-1 and \nEN 14362-2",
+      "3": "SD"
+    },
+    {
+      "0": "Elemental \nchlorine \nbleaching",
+      "1": "Pulp that has been bleached with \nelemental chlorine is not allowed to be \nused in the manufacturing of paper and \ncardboard.",
+      "2": "",
+      "3": "SD"
+    },
+    {
+      "0": "Primary \naromatic \namines (PAA)",
+      "1": "PAA according to Appendix B are not \nallowed to be used. \nContamination limit value: \n5 mg/kg for each PAA.",
+      "2": "EN 71-10 and EN 71-11",
+      "3": "SD"
+    }
+  ],
+  [
+    {
+      "0": "Table 4. Textile materials",
+      "1": "",
+      "2": "",
+      "3": ""
+    },
+    {
+      "0": "Substance",
+      "1": "Requirements",
+      "2": "Test method",
+      "3": "Documentation"
+    },
+    {
+      "0": "Alkylphenolethoxy-\nlates (APEO)",
+      "1": "Not allowed to be used. \nContamination limit value:  \n100 mg/kg for all skin-contact materials \n250 mg/kg for all other (non-skin-\ncontact) materials",
+      "2": "Extraction \n(methanol and \nammonium \nacetate) and HPLC \n• \nAll materials \nexcept filling \nmaterials \n• \nFilling \nmaterials",
+      "3": "SD and TR \nSD"
+    },
+    {
+      "0": "Antimoth agents  \nin wool",
+      "1": "Treatment of wool with antimoth agents \nis not allowed unless otherwise stated in \nthe TED. \nContamination limit value: 5.0 mg/kg.",
+      "2": "Extraction \nfollowed by GC-\nMS",
+      "3": "SD"
+    },
+    {
+      "0": "Azodyes capable of \nreleasing \ncarcinogenic \nArylamines  \nin dyed, printed or \notherwise coloured \nmaterials (see \nAppendix A)",
+      "1": "Not allowed to be used. \nContamination limit values for each \narylamine in textiles: 20 mg/kg.",
+      "2": "EN 14362-1 and \nEN 14362-2",
+      "3": "SD"
+    },
+    {
+      "0": "Chlorinated \naromatic dye \ncarriers/levelling \nagents \n used for batch dyeing \nof polyester and \npolyester-containing \nblends",
+      "1": "Not allowed to be used. \nContamination limit value: 2.0 mg/kg \nfor each compound.",
+      "2": "Solvent extraction \nand GC-MS",
+      "3": "SD"
+    },
+    {
+      "0": "Chlorine bleaching \nagents \n (e.g. sodium \nhypochlorite, sodium \nchlorite)",
+      "1": "Not allowed to be used. \nExceptions: denim, linen (i.e. flax-based \ntextile materials) or if allowed according \nto the TED.",
+      "2": "",
+      "3": "SD"
+    },
+    {
+      "0": "Dimethyl \nformamide (CAS. no \n68-12-2 )  \nin polyurethane-\ncontaining textiles \nincluding coatings",
+      "1": "Not allowed to be used without approval \nfrom IKEA.  \nIn case of approved use, contamination \nlimit value: 50 µg/m3 (48 hours)",
+      "2": "ISO 16000-9 and \nISO 16000-6.  \nConditions \naccording to \nsection 4.",
+      "3": "SD"
+    }
+  ],
+  [
+    {
+      "0": "Table 4. Textile materials",
+      "1": "",
+      "2": "",
+      "3": ""
+    },
+    {
+      "0": "Substance",
+      "1": "Requirements",
+      "2": "Test method",
+      "3": "Documentation"
+    },
+    {
+      "0": "Dyestuffs classified \nas carcinogenic or \nallergenic  \nin dyed, printed or \notherwise coloured \nmaterials.",
+      "1": "Not allowed to be used. \nList of dyestuffs and contamination limit \nvalues: See Appendix E.",
+      "2": "DIN 54231",
+      "3": "SD"
+    },
+    {
+      "0": "Flame retardants",
+      "1": "Flame retardants are not allowed to be \nused without approval by IKEA. \nFor any approved usage, the data \nconcerning flame retardant used is to be \ndocumented (SDS). \nSee Appendix F for further requirements \nif flame retardants are used, as well as \nfor contamination limit values.",
+      "2": "See Appendix F",
+      "3": "SD unless \notherwise \nspecified"
+    },
+    {
+      "0": "Formaldehyde",
+      "1": "Limit value (16, 20, 75 or 300 ppm) \naccording to reference in TED. \nOther textiles including non-woven and \nfibre wadding/filling: Limit 300 ppm.",
+      "2": "ISO 14184-1",
+      "3": "SD and TR for \nmaterials with \ntest \nrequirements \naccording to \nreference in \nTED. SD for all \nother \nmaterials"
+    },
+    {
+      "0": "Lindane",
+      "1": "Not allowed to be used. \nContamination limit value: 1.0 mg/kg.",
+      "2": "Extraction and \nGC-MS",
+      "3": "SD"
+    },
+    {
+      "0": "Optical brightening \nagents (OB)",
+      "1": "N\nFor skin-contact materials with optical \nbrighteners, migration test shall fulfill \nGrade 5 (i.e. no transfer detected). \note: For some materials, OB is not \nallowed to be used according to the \narticle’s TED.",
+      "2": "Qualitative test to \ndetermine \npresence/absence \nof optical \nbrighteners: UV-\nfluorescence (light \ncabinet) \nMigration test if \nOB are present: \nPreparation of \nsynthetic \nperspiration \nsolution and \nextraction \naccording to \nGerman \nlegislation LMBG \nB 82-10-1 \nAnalysis of \nsolution according \nto EN 648",
+      "3": "Skin contact \nmaterials with \nOB: SD and TR \nSkin contact \nmaterials \nwithout OB: \nSD. \nFor materials \nwith ban on \nOB stated in \nTED: SD."
+    }
+  ],
+  [
+    {
+      "0": "Table 4. Textile materials",
+      "1": "",
+      "2": "",
+      "3": ""
+    },
+    {
+      "0": "Substance",
+      "1": "Requirements",
+      "2": "Test method",
+      "3": "Documentation"
+    },
+    {
+      "0": "Organic solvents \nin printing paste",
+      "1": "Solvent-borne printing paste is not \nallowed to be used. \nWater-borne printing paste may contain \nmaximum 7 % organic solvent (VOC) by \nweight as ready-to-use mixture. \nKerosene is not allowed to be used.",
+      "2": "Content of solvent \n(VOC): \nISO 11890-2  \nOdour of kerosene \ncan be assessed \naccording to IoS \nodour test as \ndescribed in \nsection 4, test for \n“Emissions of \nVOCs”.",
+      "3": "For printed \ntextile \nmaterials: SD"
+    },
+    {
+      "0": "Organotin \ncompounds",
+      "1": "No kind of organotin compounds are \nallowed to be used.  \nContamination limit values: \nfor individual compounds DBT and TBT: \n0.10 mg/kg each (100 µg/kg). for sum of \nall compounds listed in Appendix C, \nmaximum 2.5 mg/kg (2500 µg/kg).",
+      "2": "Extraction and \nGC-MS \n• \nSynthetic \nmaterials (or \nblends with \nmore than 30 % \nsynthetic) \n• \nAny fabric with \nPU-containing \ncoating \n•  Others",
+      "3": "SD and TR \nSD and TR \nSD"
+    },
+    {
+      "0": "Pentachlorophenol \n(PCP)  \nincluding salts and \nesters of PCP",
+      "1": "Not allowed to be used. \nContamination limit value: 3.0 mg/kg.",
+      "2": "ISO 17070",
+      "3": "SD"
+    },
+    {
+      "0": "PFOA/PFOS/PFOSA \nand their derivatives \nOther \nperfluorinated or \npartially \nperfluorinated \norganic compounds",
+      "1": "PFOA/PFOS/PFOSA and their \nderivatives are not allowed to be used. \nContamination limit value: 1 µg/m2 of \nthe coated material. \nOther perfluorinated or partially \nperfluorinated organic compounds are \nonly allowed to be used after approval \nfrom IKEA.",
+      "2": "LC/MS-analysis",
+      "3": "O\nMaterials \ntreated for \nstain repel-\nlency: SD \nther mate-\nrials: SD not \nrequired."
+    },
+    {
+      "0": "Phthalates",
+      "1": "Not allowed to be used: \nDEHP (CAS No. 117-81-7),  \nDINP (CAS No. 28553-12-0),  \nDBP (CAS No. 84-74-2),  \nDIDP (CAS No. 26761-40-0), \nDNOP (CAS No. 117-84-0), \nBBP (CAS No. 85-68-7), \nDIBP (CAS No. 84-69-5). \nContamination limit value for each \nphthalate: 100 mg/kg.",
+      "2": "Extraction and \nGC-MS",
+      "3": "SD"
+    }
+  ],
+  [
+    {
+      "0": "Table 4. Textile materials",
+      "1": "",
+      "2": "",
+      "3": ""
+    },
+    {
+      "0": "Substance",
+      "1": "Requirements",
+      "2": "Test method",
+      "3": "Documentation"
+    },
+    {
+      "0": "Polyvinylchloride \n(PVC)",
+      "1": "Not allowed to be used as a material for \ntextiles. This ban also includes usage as \nprinting binders and in coatings.",
+      "2": "If verifying test is \nneeded: Beilstein \ntest",
+      "3": "SD"
+    },
+    {
+      "0": "Primary aromatic \namines (PAA)",
+      "1": "PAA according to Appendix B are not \nallowed to be used. \nContamination limit value: \n5 mg/kg for each PAA.",
+      "2": "EN 71-10 and \nEN 71-11",
+      "3": "SD"
+    },
+    {
+      "0": "Recycled material \nfrom external source",
+      "1": "Use of recycled material from external \nsource is allowed only after approval by \nIKEA. \nNote: Approval is not needed for the use \nof recycled plastic drink bottles to pro-\nduce new polyester fibre used in \nfilling/wadding.",
+      "2": "",
+      "3": "SD"
+    }
+  ],
+  [
+    {
+      "0": "Table 5. Polymerics incl. plastics, silicone, and rubber/elastomers/latex",
+      "1": "",
+      "2": "",
+      "3": ""
+    },
+    {
+      "0": "Substance",
+      "1": "Requirements",
+      "2": "Test method",
+      "3": "Documentation"
+    },
+    {
+      "0": "Azodyes \ncapable of \nreleasing \ncarcinogenic \narylamines  \n(see Appendix A)",
+      "1": "Not allowed to be used.  \nContamination limit value for each \narylamine: 30 mg/kg.  \nThis requirement only applies to \nmaterials to which colouring agents \nhave been added.",
+      "2": "EN 14362-1 and \nEN 14362-2",
+      "3": "SD"
+    },
+    {
+      "0": "Bisphenol A \n(CAS no.  \n80-05-7)  \nin plastic material",
+      "1": "Migration limit value: 0.60 mg/l.",
+      "2": "EN 14372 \n• \nPolycarbonate \nplastics \n• \nOthers",
+      "3": "SD and TR \nSD"
+    },
+    {
+      "0": "Cadmium, lead \nand their \ncompounds",
+      "1": "Requirement as stated in section 2. \nNote: Extra documentation \nrequirement",
+      "2": "• \nYellow to orange to \nred shades \n• \nMaterial containing \nexternal recycled \nplastics \n• \nOthers",
+      "3": "SD and TR \nSD and TR \nSD"
+    },
+    {
+      "0": "CFCs  \n(chlorofluoro-\ncarbons)  \nand  \nHCFCs (hydro-\nchlorofluoro-\ncarbons)  \nin foamed \nplastic",
+      "1": "CFCs and HCFCs are not allowed to be \nused.",
+      "2": "",
+      "3": "SD"
+    }
+  ],
+  [
+    {
+      "0": "Table 5. Polymerics incl. plastics, silicone, and rubber/elastomers/latex",
+      "1": "",
+      "2": "",
+      "3": ""
+    },
+    {
+      "0": "Substance",
+      "1": "Requirements",
+      "2": "Test method",
+      "3": "Documentation"
+    },
+    {
+      "0": "Flame \nretardants",
+      "1": "Flame retardants are not allowed to be \nused without approval by IKEA. \nFor any approved usage, the data \nconcerning flame retardant used is to \nbe documented (SDS). \nSee Appendix F for further \nrequirements if flame retardants are \napproved for use, as well as for \ncontamination limit values.",
+      "2": "See Appendix F",
+      "3": "SD unless \notherwise \nspecified"
+    },
+    {
+      "0": "Hexavalent \nchromium \n(Cr-VI) \ncompounds",
+      "1": "Not allowed to be used. \nContamination limit value:  \n100 mgCr-VI /kg",
+      "2": "Alkaline digestion and \ncolorimetric analysis \n• \nVirgin polymerics \nand internally \nrecycled material. \n• \nMaterial containing \nexternal recycled \npolymerics.",
+      "3": "SD \nSD and TR"
+    },
+    {
+      "0": "Lindane  \nin materials con-\nsisting wholly or \npartly of natural \nlatex/rubber",
+      "1": "Not allowed to be used. \nContamination limit value:  \n1.0 mg/kg.",
+      "2": "Extraction and GC-MS",
+      "3": "SD"
+    },
+    {
+      "0": "Mercury (Hg) \nand its \ncompounds",
+      "1": "Not allowed to be used. \nContamination limit value: \n10 mg Hg/kg.",
+      "2": "Total metal content by \nmicrowave digestion \nand cold vapour AAS  \n• \nVirgin polymerics \nand internally \nrecycled material.  \n• \nMaterial containing \nexternal recycled \npolymerics.",
+      "3": "SD \nSD and TR"
+    },
+    {
+      "0": "Organotin \ncompounds",
+      "1": "No kind of organotin compounds are \nallowed to be used.  \nContamination limit value for \nindividual compounds DBT and TBT: \n0.10 mg/kg each (100 µg /kg). Sum of \nall compounds listed in Appendix C, \nmaximum 2.5 mg/kg (2500 µg/kg).",
+      "2": "Extraction and GC-MS",
+      "3": "SD"
+    },
+    {
+      "0": "Pentachloro-\nphenol (PCP) \nincluding salts \nand esters of \nPCP  \nin materials con-\nsisting wholly or \npartly of natural \nlatex/rubber",
+      "1": "Not allowed to be used. \nContamination limit value is 3.0 mg/kg.",
+      "2": "ISO 17070",
+      "3": "SD"
+    }
+  ],
+  [
+    {
+      "0": "Table 5. Polymerics incl. plastics, silicone, and rubber/elastomers/latex",
+      "1": "",
+      "2": "",
+      "3": ""
+    },
+    {
+      "0": "Substance",
+      "1": "Requirements",
+      "2": "Test method",
+      "3": "Documentation"
+    },
+    {
+      "0": "Phthalates",
+      "1": "Not allowed to be used: \nDEHP (CAS No. 117-81-7),  \nDINP (CAS No. 28553-12-0),  \nDBP (CAS No. 84-74-2),  \nDIDP (CAS No. 26761-40-0), \nDNOP (CAS No. 117-84-0), \nBBP (CAS No. 85-68-7), \nDIBP (CAS No. 84-69-5). \nContamination limit value for each \nphthalate: 100 mg/kg.",
+      "2": "Extraction and GC-MS",
+      "3": "SD"
+    },
+    {
+      "0": "Polycyclic \naromatic \nhydrocarbons \n(PAH)",
+      "1": "Not allowed to be used. \nContamination limit values for total of \n16 polycyclic aromatic hydrocarbons \n(see list in Appendix D): \n• \n200 mg/kg for non-skin contact \nmaterials \n• \n10 mg/kg total limit for skin-\ncontact materials \nContamination limit values for \nbenzo(a)pyrene: \n• \n20 mg/kg for non-skin contact \nmaterials,  \n• \n1.0 mg/kg for skin contact \nmaterials.",
+      "2": "Extraction and GC-MS \nISO 18287 \n• \nBlack rubber, black \nlatex or other black \nelastomers. \n• \nOthers.",
+      "3": "SD and TR \nSD"
+    },
+    {
+      "0": "Polyvinyl-\nchloride (PVC)",
+      "1": "Not allowed to be used. \nLimit for PVC contamination in \nrecycled plastic materials: 300 mg total \nchlorine per kg.",
+      "2": "Screening test for \nchlorine: Beilstein test. \nTest for PVC \ncontamination: \nWickbold combustion or \nalternatively sintering \nand dissolving and ICP-\nSFMS.",
+      "3": "SD"
+    },
+    {
+      "0": "Recycled \nmaterial  \nfrom external \nsource",
+      "1": "Use of recycled material from external \nsource is allowed only after approval by \nIKEA.",
+      "2": "",
+      "3": "SD"
+    }
+  ],
+  [
+    {
+      "0": "Table 6. Polyurethane foam",
+      "1": "",
+      "2": "",
+      "3": ""
+    },
+    {
+      "0": "Substance",
+      "1": "Requirements",
+      "2": "Test method",
+      "3": "Minimum \ndocumentation \nrequirement"
+    },
+    {
+      "0": "Arylamines: \n2,4-Toluene-\ndiamine \n(2,4-TDA); \n4,4'-Diamino-\ndiphenyl-\nmethane \n(4,4'-MDA)",
+      "1": "Limit value: Max 5.0 mg/kg for each \nsubstance relevant for foam made of TDI- \nor MDI-isocyanate respectively.",
+      "2": "Reference method: \nLund University \nmethod (Extraction \nand HPLC or GC-MS; \nAnalytica Chimica \nActa 510 (2004) 109-\n119). Alternatively, \nEuropur method is \nallowed to be used \nprovided correlation-\nfactor to reference \nmethod is taken into \naccount.",
+      "3": "SD and TR"
+    },
+    {
+      "0": "CFCs  \n(chlorofluoro-\ncarbons)  \nand  \nHCFCs (hydro-\nchlorofluoro-\ncarbons).",
+      "1": "Not allowed to be used.",
+      "2": "",
+      "3": "SD"
+    },
+    {
+      "0": "Chlorine in \nisocyanate raw \nmaterial",
+      "1": "Isocyanate raw material: Max limit of \n0.07 % total chlorine content. (This \nrequirement regarding the purity of the \nraw material used aims at avoiding the \nrisk of formation of foul-smelling \ndichlorobenzene compound in the \nproduced foam).",
+      "2": "ASTM D4661-09",
+      "3": "SD"
+    },
+    {
+      "0": "Flame \nretardants",
+      "1": "Flame retardants are not allowed to be \nused without approval by IKEA. \nFor any approved usage, the data concer-\nning flame retardant used is to be \ndocumented (SDS). \nSee Appendix F for further requirements \nif flame retardants are used, as well as for \ncontamination limit values.",
+      "2": "See Appendix F",
+      "3": "SD unless \notherwise \nspecified."
+    },
+    {
+      "0": "Organotin \ncompounds",
+      "1": "No kind of organotin compounds are \nallowed to be used.  \nContamination limit value for individual \ncompounds DBT and TBT: 0.10 mg/kg \neach. (100 µg /kg). Sum of all compounds \nlisted in Appendix C, maximum 2.5 mg/kg \n(2500 µg/kg).",
+      "2": "Extraction and  \nGC-MS.",
+      "3": "SD and TR"
+    }
+  ],
+  [
+    {
+      "0": "Table 6. Polyurethane foam",
+      "1": "",
+      "2": "",
+      "3": ""
+    },
+    {
+      "0": "Substance",
+      "1": "Requirements",
+      "2": "Test method",
+      "3": "Minimum \ndocumentation \nrequirement"
+    },
+    {
+      "0": "Phthalates",
+      "1": "Not allowed to be used:   \nDEHP (CAS No. 117-81-7),  \nDINP (CAS No. 28553-12-0),  \nDBP (CAS No. 84-74-2),  \nDIDP (CAS No. 26761-40-0), \nDNOP (CAS No. 117-84-0), \nBBP (CAS No. 85-68-7), \nDIBP (CAS No. 84-69-5). \nContamination limit value for total sum: \n100 mg/kg.",
+      "2": "Extraction and GC-MS",
+      "3": "SD and TR for \nfilling \nmattresses \nand pillows. \nSD for others"
+    }
+  ],
+  [
+    {
+      "0": "Table 7. Complete product – emissions and odour",
+      "1": "",
+      "2": "",
+      "3": ""
+    },
+    {
+      "0": "Substance",
+      "1": "Requirements",
+      "2": "Test method",
+      "3": "Documentation"
+    },
+    {
+      "0": "Emissions of \nVOCs:  \nTVOC (= Total \nVolatile Organic \nCompounds) \nCMR substances  \ncategories 1 or 2 \naccording to EU-\nofficial classifi-\ncation \nToxic (T or T+) \nsubstances \nFormaldehyde \nOdour",
+      "1": "If any shipment of goods emits an \nunpleasant or unexpected smell or \ndeviates from earlier shipments \nand/or from reference sample in \nterms of emissions/odour, which by \nIKEA is deemed to involve a risk of \ndiscomfort or negative health effects \nfor customers, this is to be considered \na valid cause for claim of said \nshipment.5 \nEvaluation to be made by IoS test by a \ngroup of at least three persons. \nIn case of verifying emission testing: \nMinimum requirements:  \n1.  Assessment based on evaluation of \nindividual substances emitted, \nincluding limit after 48 hours for: \n• \nEach individual CMR-\nsubstance: 10 μg/m3  \n• \nEach individual T-substance: \n30 μg/m3, \n• \nThe sum of all CMR-\nsubstances: 50 μg/m3. \n• \nFormaldehyde: 120 μg/m3 \n(applies to all products except \nthose only containing \nmaterials covered by \nspecification  \nIOS-MAT-0003).  \n2.  TVOC <1200 μg/m3 after 48 hours. \n3.  TVOC <600 μg/m3 after 28 days. \nNote: For leather/artificial leather \nupholstery products, any testing done \non a sample involving the cover \nmaterial (wholly or partly), the \nrequirements according to IOS-MAT-\n0011and IOS-MAT-0079 apply \nrespectively.",
+      "2": "W\nVOC-test method: ISO \n16000-9 \nDefault loading factor: \n1:1 m2/m3  and air \nexchange rate: 1 \ntime/h. Analysis \naccording to ISO \n16000-6 (Tenax and \nGC). \nTest result recorded \nafter 48 hours and, \nwhen deemed \nnecessary, after 28 \ndays. \nhen testing for \nformaldehyde and \nother lower alde-\nhydes. Analysis acc. to \nISO 16000-3 (DNPH \nand LC). \nWhen sampling: The \ntaking of a sample \nfrom production \nshould reflect a \nrealistic worst case in \ncomparison to when \nthe product could \nreach a customer (i.e. \nnormal handling in \nfactory, storage time,  \npackaging and \ntransport to the \nnearest destination).",
+      "3": "No general \ntest require-\nment for each \nproduct, but \ntest reports \nare required in \ncase of: \n•  Emission \ntest \nrequiremen\nt stated in \nTED \n•  A dispute \nconcerning \nodour. \nEmission \nassessment \n(reference \nlaboratory \nWKI, \nBraunsch-\nweig, \nGermany) \n•  First \ndelivery of a \nmattress \narticle6"
+    }
+  ],
+  [
+    {
+      "0": "Table 7. Complete product – emissions and odour",
+      "1": "",
+      "2": "",
+      "3": ""
+    },
+    {
+      "0": "Substance",
+      "1": "Requirements",
+      "2": "Test method",
+      "3": "Documentation"
+    },
+    {
+      "0": "",
+      "1": "A\nTerpene emissions that originate  \nfrom solid wood: \n• \nFor individual mono-terpenes, a \nbackground concentration of max \n1400 μg/m3 after 48 hours is \nsubtracted from the measured \nTVOC- emission value. \nThe corresponding subtraction value \nafter 28 days is 700 μg/m3. \nThis applies to each of: \n• \n3-Carene \n• \nα-Pinene \n• \nβ-Pinene \n• \nLimonene \n• \nSum of other terpenes \nMaximum total subtraction of \nterpenes is 2800 μg/m3 after 48 h, \nand 1400 μg/m3 after 28 days. \ncetic acid emissions that originate \nfrom solid wood: \n• \nA background concentration of \nmax 500 μg/m3 after 48 hours is \nsubtracted from the measured \nTVOC-emission value. \nThe corresponding subtraction value \nafter 28 days is 250 μg/m3. \nThis extra tolerance for acetic acid is \nallowed provided that a pronounced \nodour is not present.",
+      "2": "",
+      "3": ""
+    },
+    {
+      "0": "Methyl bromide, \nEthyleneoxide and \nother fumigation \nchemicals classi-\nfied  as hazardous \naccording to EU \nclassification of \nchemical sub-\nstances (Directive \n67/548/EEC).",
+      "1": "Fumigation (gassing of products/ \ncontainers with the purpose of \neliminating insects, vermin or larvae) \nis only allowed to be performed after \nagreement with IKEA. \nIf fumigation is approved, it shall be \nperformed according to the “IKEA \nFumigation Requirements” (available \nfrom IKEA) and the above \nrequirements for emissions of VOCs \nand odour shall be complied with.",
+      "2": "Test method: VDI \n2100/2 (Headspace \nAnalysis) and  \nISO 16000-9.",
+      "3": "SD of compli-\nance with \nIKEA Fumi-\ngation \nRequirements \nin case \nfumigation is \ncarried out. \nOtherwise SD \nis not \nrequired."
+    }
+  ],
+  [
+    {
+      "0": "Term",
+      "1": "Description"
+    },
+    {
+      "0": "Alkylphenolethoxylates \n(APEO)",
+      "1": "Sum of NPEO (Nonylphenolethoxylates) and OPEO \n(Octylphenolethoxylates). (Surface active agents. Examples of use: \nWetting agents, dispersing agents, detergents, emulsifiers.)"
+    },
+    {
+      "0": "Biocides added in order \nto impart properties to \nthe final product",
+      "1": "Biocides are chemical substances that are intended to kill living \norganisms. Examples are bactericides, fungicides, insecticides, herbicides. \nPreservatives can be biocides. \nBiocides added in order to impart properties to the final product are \nbiocides which are contained in a material in order to have some kind of \nbiocidal (organism-killing) effect in that material in the final article. \nThere is no absolute ban on such additions, but in each case approval by \nIKEA is needed concerning the addition and the substance used. Typical \nexamples of what is meant are biocides used: \na)  Against smell in skin-contact fabrics. \nb)  To preserve wood that is to be used in damp environments. \nc) \nIn impregnated mosquito nets. \nd)  To prevent mould during transport/storage  of final product. \ne)  Anti-bacterial treatments. \nThe following are examples of what are not “biocides added in order to \nimpart properties to the final product”: \n• \nBiocides/preservatives to preserve raw materials or components \nduring production, storage and transport – prior to assembly of the \narticle at the IKEA supplier. \n• \nBiocides/preservatives to preserve chemical products (in order to \nlengthen their shelf life, “in-can preservatives”) that are \nsubsequently used in the manufacture of the final product."
+    },
+    {
+      "0": "CFCs (Chlorofluoro-\ncarbons)  \nand  \nHCFCs (hydrochloro-\nfluorocarbons)",
+      "1": "CFCs are organic (carbon-based) compounds consisting of carbon, \nchlorine and fluorine.  \nThey are listed in the Montreal Protocol6 on Substances that Deplete the \nOzone Layer, in Group I of Annex A and Group I of Annex B. \nHCFCs are organic (carbon-based) compounds consisting of carbon, \nhydrogen, chlorine and fluorine.  \nThey are listed in the Montreal Protocol on Substances that Deplete the \nOzone Layer, in Group I of Annex C."
+    },
+    {
+      "0": "Chlorinated aromatic dye \ncarriers/levelling agents",
+      "1": "Dye carriers/levelling agents are used in low-temperature dyeing of \npolyester. Typical chlorinated aromatic dye carriers are: \n• \nChlorobenzenes \n• \nChloronaphthalenes \n• \nChlorotoluenes \n• \nChloroxylenes"
+    }
+  ],
+  [
+    {
+      "0": "Term",
+      "1": "Description"
+    },
+    {
+      "0": "CMR substances",
+      "1": "Substances that according to European Union classification are: \n• \nC: Carcinogenic substances classified as category 1 or 2 (risk \nphrases R45 or R49) or according to the CLP-regulation \n1272/2008 Carc.1A or 1B (hazard statements H350 or H350i); \nor \n• \nM: Mutagenic substances classified as category 1 or 2 (R46), or \naccording to the CLP-regulation 1272/2008 Muta. 1B (hazard \nstatement H340); \nor \n• \nR: Substances toxic to reproduction (‘repro-toxic’) classified as \ncategory 1 or 2 (R60 or R61), or according to the CLP-regulation \n1272/2008 Repr. 1A or 1B (hazard statements H360). \nThese classifications are defined in the EU Directive 67/548/EEC on \ndangerous substances, and listed in the EU REACH regulation 1907/2006: \n• \nAnnex XVII, Point 28 (C). \n• \nAnnex XVII, Point 29 (M). \n• \nAnnex XVII, Point 30 (R)."
+    },
+    {
+      "0": "Contamination limit \nvalue (CLV)",
+      "1": "Most requirements in this specification are that certain substances \nshould not be used. However, when following up compliance by testing, \nthere is always a level of uncertainty in the testing, and moreover there \nmay occur a low level of contamination in materials and process \nchemicals used in manufacturing - therefore the contamination limit \nvalue sets the level for what is allowed in the test result. If recycled \nmaterial is used, limits stated in this specification and in the respective \nTED shall still be fulfilled, unless otherwise stated.  \nNote: The contamination limit value does not mean that it is allowed to \nconsciously use the substance up to this limit. Instead, when a test result \nconfirms presence of a banned substance (e.g. 60% of the CLV), the source \nof this contamination shall be investigated. \nUnless otherwise specified, contamination limit values are given as a \nproportion (e.g. mg/kg) of each separate homogeneous material."
+    },
+    {
+      "0": "ECHA",
+      "1": "European Chemicals Agency"
+    },
+    {
+      "0": "Fittings",
+      "1": "Components on fitting list."
+    },
+    {
+      "0": "Natural materials",
+      "1": "In this specification, this includes materials such as rattan, bamboo, \nstraw, water hyacinth, willow as well as natural fibres (excluding textile \napplications for which the requirements for textile materials apply) such \nas banana fibres, cactus fibres, maize fibres, palm leaves, sisal, and sea \ngrass. Linoleum also belongs to this category."
+    },
+    {
+      "0": "NPEO",
+      "1": "Nonylphenolethoxylates"
+    }
+  ],
+  [
+    {
+      "0": "Term",
+      "1": "Description"
+    },
+    {
+      "0": "Organotin compounds",
+      "1": "A group of compounds composed of the metal tin covalently bonded with \nan organic (carbon-containing) molecule/radical, for instance  butyl, octyl \nor phenyl. (These radicals are collectively know as alkyls and aryls.) The \ntin is in the tetravalent state - Sn (IV). Organotin compounds may also be \nknown as tinorganic compounds. \nEach kind of organotin, e.g. dibutyltin (DBT), is actually several different \nsubstances. DBT, MBT, TBT, DOT etc are positive ions, cations, and they \ncan have many different negative counter-ions (anions), e.g. chloride, \noxide, laurate.  \nNote: The limit values in the requirements refer to the alkyl-/aryl-tin \ncation, without the counter-ion. \nAn example list of organotin compounds, those that are included in \nstandard tests, is given in Appendix C. \nNote that organic salts of divalent tin (Sn(II)), stannous salts, are not \norganotins compounds. Example: tin (di)octoate (tin 2-ethylhexanoate) is \nnot banned. In this substance the octoate (ethylhexanoate) is the anion; it \nis not the same substance as dioctyltin, where the octyl is part of the \ncation."
+    },
+    {
+      "0": "OPEO",
+      "1": "Octylphenolethoxylates"
+    },
+    {
+      "0": "Other SVHC \n(Substances of Very High \nConcern)",
+      "1": "Substance having properties as defined in the EU REACH regulation, (EC) \nNo. 1907/2006, Article 57(f) and listed in any candidate list published by \nthe European Chemical Agency in accordance with REACH article 59. \nThe word “other” refers to the fact that PBT and vPvB substances, as well \nas some CMR, also are classified by the EU as “SVHC”."
+    },
+    {
+      "0": "PBT-substances",
+      "1": "Substances that are Persistent (do not easily degrade in the environment) \nand Bioaccumulating (easily increase in concentration in living \norganisms, especially in fatty tissues) and Toxic, as defined in the EU \nREACH regulation 1907/2006 REACH Art. 57(d) & Annex XIII(i) and listed \nin any candidate list published by the European Chemical Agency in \naccordance with REACH article 59."
+    },
+    {
+      "0": "Perfluorinated or \npartially perfluorinated \norganic compounds",
+      "1": "For the purpose of this specification, means: Organic compounds that \ncontain at least three carbon atoms that each are bonded to six fluorine \natoms (a C3F6-group)."
+    },
+    {
+      "0": "PFOA/PFOS/PFOSA and \ntheir derivatives",
+      "1": "PFOA = Perfluorooctanoic acid \nPFOS = Perfluorooctane sulfonic acid and perfluorosulfonates \nPFOSA = Perfluorooctane sulphonamide  \nTheir derivatives: Compounds that contain any of the following groups: \nC8F17SO2, C8F17SO3 and C8F17SO2N"
+    },
+    {
+      "0": "Post-consumer recycled \nmaterial",
+      "1": "A material that has been used by a consumer (i.e. not including \nproduction waste). In the case of wood chips, it would mean, for instance, \nchips made from scrapped furniture or scrap wood from housing, e.g. \nafter pulling down a house and sorting out the wood waste."
+    },
+    {
+      "0": "Recycled material from \nexternal source",
+      "1": "Production waste from different factory/factories than that of the \nmanufacturer of the article as well as post-consumer recycled material."
+    }
+  ],
+  [
+    {
+      "0": "Term",
+      "1": "Description"
+    },
+    {
+      "0": "Reference laboratory",
+      "1": "A laboratory in the group of laboratories approved by IKEA, which by \nIKEA is considered the most authoritative for a certain kind of test. This \nlaboratory is therefore used by IKEA in interlaboratory trials as the \nreference point against which other laboratories are compared and is also \nmade use of in cases of dispute (e.g. conflicting test results from other \napproved laboratories)."
+    },
+    {
+      "0": "Self declaration (SD)",
+      "1": "A declaration issued by supplier and sub-supplier (e.g. chemical or \ncoating supplier) to confirm that a requirement is fulfilled."
+    },
+    {
+      "0": "Skin-contact polymerics",
+      "1": "For the determination of if the skin-contact requirement for PAH is \napplicable: if the product in usage involves an estimated skin contact of a \nduration of more than 30 seconds, it is deemed a skin-contact item.  \nExample: latex-backings of rugs are not considered as skin-contact."
+    },
+    {
+      "0": "Skin-contact textile",
+      "1": "The following categories of textile are skin-contact textiles as applied in \nthis specification (in general corresponding to any textile category for \nwhich a formaldehyde-requirement of 75 pm or lower applies – note that \nfilling materials are not considered as skin-contact materials): \n• \nBedlinen, quilt cover \n• \nBumper pad \n• \nMattress protector \n• \nQuilt and pillow tickings \n• \nBath sheet, beach towel  \n• \nOther towels and bibs \n• \nOutdoor cushion  \n• \nFabric for soft toys \n• \nMattress ticking \n• \nBathrobes \n• \nGarments worn next to the skin"
+    },
+    {
+      "0": "Solid wood",
+      "1": "Pure natural wood and glued solid wood (solid wood panel)."
+    },
+    {
+      "0": "Synthetic textile \nmaterials",
+      "1": "Textile materials made of man-made fibre material. Most synthetic fibres \nare based on petroleum as a raw material - the most well known ones are \npolyester, nylon (polyamide) and polyacrylic fibres.  \nNote: “Synthetic textile” does not include regenerated fibres, i.e. \nmaterials which are based on natural, renewable materials that are \nbroken down to monomers and then reconstituted, e.g. viscose, lyocell \nand acetate fibres."
+    },
+    {
+      "0": "Technical description \n(TED)",
+      "1": "Document listing the requirements of a specific IKEA article, including \nreferences to relevant specifications."
+    },
+    {
+      "0": "Test report (TR)",
+      "1": "A report of one or several tests performed by an IKEA approved \nlaboratory."
+    },
+    {
+      "0": "Textile",
+      "1": "Fibres, filaments and yarns and materials made of these such as woven, \nknitted and non-woven fabrics. Filling materials made of non-woven, \nfibre fillings, fibre wadding are also included in the requirements listed \nunder the heading textile; whereas feathers and down-fillings are \nhowever not counted as “textile” in this specification. \nCoatings on textile materials are seen as part of the textile material."
+    }
+  ],
+  [
+    {
+      "0": "Term",
+      "1": "Description"
+    },
+    {
+      "0": "Total Volatile Organic \nCompounds (TVOC)",
+      "1": "Sum of  the concentrations of VOC’s (Volatile Organic Compounds) \ncovering the range between and including n-hexane and n-hexadecane \n(often indicated as C6-C16 in the test reports). This sum does not include \nSVOC’s (Semivolatile Organic Compounds) or VVOC’s (Very Volatile \nOrganic Compounds)."
+    },
+    {
+      "0": "Toxic substances",
+      "1": "Substances, which according to EU Dangerous Substances Directive \n67/548/EEC are classified as toxic (T) or very toxic (T+)."
+    },
+    {
+      "0": "vPvB-substances",
+      "1": "very Persistent and very Bioaccumulating substances, as defined in the \nEU REACH regulation 1907/2006 REACH Art. 57(e) & Annex XIII(ii) and \nlisted in any candidate list published by the European Chemical Agency \nin accordance with REACH article 59."
+    },
+    {
+      "0": "Wood-based materials",
+      "1": "Materials made from wooden particles or layers, e.g. particleboards, \nfibreboards, plywood, layer-glued materials, or veneer."
+    }
+  ],
+  [
+    {
+      "0": "Table A. Prohibited arylamines",
+      "1": "",
+      "2": ""
+    },
+    {
+      "0": "Substance",
+      "1": "",
+      "2": "CAS no."
+    },
+    {
+      "0": "1.",
+      "1": "4-aminodiphenyl",
+      "2": "92-67-1"
+    },
+    {
+      "0": "2.",
+      "1": "Benzidine",
+      "2": "92-87-5"
+    },
+    {
+      "0": "3.",
+      "1": "4-chloro-o toluidine (2-amino-5-chloro-toluene)",
+      "2": "95-69-2"
+    },
+    {
+      "0": "4.",
+      "1": "2-naphtylamine(2-amino-naphtalene)",
+      "2": "91-59-8"
+    },
+    {
+      "0": "5.",
+      "1": "2-amino-azotoluene",
+      "2": "97-56-3"
+    },
+    {
+      "0": "6.",
+      "1": "2-amino-4-nitrotoluene",
+      "2": "99-55-8"
+    },
+    {
+      "0": "7.",
+      "1": "4-chloroaniline",
+      "2": "106-47-8"
+    },
+    {
+      "0": "8.",
+      "1": "2,4-diaminoanisole",
+      "2": "615-05-4"
+    },
+    {
+      "0": "9.",
+      "1": "4,4'-diaminodiphenylmethane",
+      "2": "101-77-9"
+    },
+    {
+      "0": "10.   3,3'-dichlorobenzidine",
+      "1": "",
+      "2": "91-94-1"
+    },
+    {
+      "0": "11.   3,3'-dimethoxybenzidine",
+      "1": "",
+      "2": "119-90-4"
+    },
+    {
+      "0": "12.   3,3'-dimethylbenzidine",
+      "1": "",
+      "2": "119-93-7"
+    },
+    {
+      "0": "",
+      "1": "13.   3,3'-dimethyl-4,4'-diaminodiphenylmethane",
+      "2": "838-88-0"
+    },
+    {
+      "0": "",
+      "1": "14.   p-cresidine (2 methoxy-5-methylaniline)",
+      "2": "120-71-8"
+    },
+    {
+      "0": "",
+      "1": "15.   4,4'-methylene bis-(2-chloroaniline)",
+      "2": "101-14-4"
+    },
+    {
+      "0": "16.   4,4'-oxydianiline",
+      "1": "",
+      "2": "101-80-4"
+    },
+    {
+      "0": "17.   4,4'-thiodianiline",
+      "1": "",
+      "2": "139-65-1"
+    },
+    {
+      "0": "18.   o-toluidine (2-amino-toluene)",
+      "1": "",
+      "2": "95-53-4"
+    },
+    {
+      "0": "",
+      "1": "19.   2,4- toluenediamine (2,4-diamino-toluene)",
+      "2": "95-80-7"
+    },
+    {
+      "0": "20.   2,4,5-trimethylaniline",
+      "1": "",
+      "2": "137-17-7"
+    },
+    {
+      "0": "21.   2-methoxyaniline",
+      "1": "",
+      "2": "90-04-0"
+    },
+    {
+      "0": "22.   4-amino azobenzene",
+      "1": "",
+      "2": "60-09-3"
+    },
+    {
+      "0": "23.   2,4-xylidine",
+      "1": "",
+      "2": "95-68-1"
+    },
+    {
+      "0": "24.   2,6-xylidine",
+      "1": "",
+      "2": "87-62-7"
+    }
+  ],
+  [
+    {
+      "0": "Table B. Primary aromatic amines (PAA)",
+      "1": "",
+      "2": ""
+    },
+    {
+      "0": "Compound",
+      "1": "CAS no.",
+      "2": "Health effects"
+    },
+    {
+      "0": "Benzidine",
+      "1": "92-87-5",
+      "2": "Carcinogenic"
+    },
+    {
+      "0": "2-Naphthylamine",
+      "1": "91-59-8",
+      "2": "Carcinogenic"
+    },
+    {
+      "0": "4-Chloroaniline",
+      "1": "106-47-8",
+      "2": "Carcinogenic"
+    },
+    {
+      "0": "3,3-Dichlorobenzidine",
+      "1": "91-94-1",
+      "2": "Carcinogenic"
+    },
+    {
+      "0": "3,3-Dimethoxybenzidine",
+      "1": "119-90-4",
+      "2": "Carcinogenic"
+    },
+    {
+      "0": "3,3-Dimethylbenzidine",
+      "1": "119-93-7",
+      "2": "Carcinogenic"
+    },
+    {
+      "0": "o-Toluidine",
+      "1": "95-53-4",
+      "2": "Carcinogenic"
+    },
+    {
+      "0": "2-Methoxyaniline (o-Anisidine)",
+      "1": "90-04-0",
+      "2": "Carcinogenic"
+    },
+    {
+      "0": "Aniline and salts of aniline",
+      "1": "62-53-3 and various",
+      "2": "Carcinogenic"
+    }
+  ],
+  [
+    {
+      "0": "Table C. List of organotin compounds",
+      "1": ""
+    },
+    {
+      "0": "Compounds",
+      "1": "Abbreviation"
+    },
+    {
+      "0": "Dibutyltin compounds",
+      "1": "DBT"
+    },
+    {
+      "0": "Dioctyltin compounds",
+      "1": "DOT"
+    },
+    {
+      "0": "Monobutyltin compounds",
+      "1": "MBT"
+    },
+    {
+      "0": "Monooctyltin compounds",
+      "1": "MOT"
+    },
+    {
+      "0": "Tetrabutyltin compounds",
+      "1": "TeBT"
+    },
+    {
+      "0": "Tributyltin compounds",
+      "1": "TBT"
+    },
+    {
+      "0": "Tricyclohexyltin compounds",
+      "1": "TCyT (TCHT)"
+    },
+    {
+      "0": "Triphenyltin compounds",
+      "1": "TPhT"
+    }
+  ],
+  [
+    {
+      "0": "Table D. List of polycyclic aromatic hydrocarbons (PAH)",
+      "1": ""
+    },
+    {
+      "0": "Compounds",
+      "1": "CAS no."
+    },
+    {
+      "0": "Acenaphthene",
+      "1": "83-32-9"
+    },
+    {
+      "0": "Acenaphtylene",
+      "1": "208-96-8"
+    },
+    {
+      "0": "Anthracene",
+      "1": "120-12-7"
+    },
+    {
+      "0": "Benzo(a)anthracene",
+      "1": "56-55-3"
+    },
+    {
+      "0": "Benzo(a)pyrene",
+      "1": "50-32-8"
+    },
+    {
+      "0": "Benzo(b)fluoranthene",
+      "1": "205-99-2"
+    },
+    {
+      "0": "Benzo(ghi)perylene",
+      "1": "191-24-2"
+    },
+    {
+      "0": "Benzo(k)fluoranthene",
+      "1": "207-08-9"
+    },
+    {
+      "0": "Chrysene",
+      "1": "218-01-9"
+    },
+    {
+      "0": "Dibenz(a)anthracene",
+      "1": "53-70-3"
+    },
+    {
+      "0": "Fluoranthene",
+      "1": "206-44-0"
+    },
+    {
+      "0": "Fluorene",
+      "1": "86-73-7"
+    },
+    {
+      "0": "Indeno(1,2,3-cd)pyrene",
+      "1": "193-39-5"
+    },
+    {
+      "0": "Naphthalene",
+      "1": "91-20-3"
+    },
+    {
+      "0": "Phenanthrene",
+      "1": "85-01-8"
+    },
+    {
+      "0": "Pyrene",
+      "1": "129-00-0"
+    }
+  ],
+  [
+    {
+      "0": "Table E. List of banned textile dyestuffs",
+      "1": "",
+      "2": "",
+      "3": ""
+    },
+    {
+      "0": "Disperse dyestuffs",
+      "1": "Colour index no.",
+      "2": "CAS no.",
+      "3": "Contamination limit \n(DIN 54231) mg/l in extract"
+    },
+    {
+      "0": "Disperse Blue 1",
+      "1": "64500",
+      "2": "2475-45-8",
+      "3": "1 mg/l"
+    },
+    {
+      "0": "Disperse Blue 3",
+      "1": "61505",
+      "2": "2475-46-9",
+      "3": "5 mg/l"
+    },
+    {
+      "0": "Disperse Blue 7",
+      "1": "62500",
+      "2": "3179-90-6",
+      "3": "5 mg/l"
+    },
+    {
+      "0": "Disperse Blue 26",
+      "1": "63305",
+      "2": "3860-63-7",
+      "3": "5 mg/l"
+    },
+    {
+      "0": "Disperse Blue 35",
+      "1": "--",
+      "2": "12222-75-2",
+      "3": "5 mg/l"
+    },
+    {
+      "0": "Disperse Blue 102",
+      "1": "--",
+      "2": "12222-97-8",
+      "3": "5 mg/l"
+    },
+    {
+      "0": "Disperse Blue 106",
+      "1": "--",
+      "2": "12223-01-7",
+      "3": "5 mg/l"
+    },
+    {
+      "0": "Disperse Blue 124",
+      "1": "--",
+      "2": "61951-51-7",
+      "3": "5 mg/l"
+    },
+    {
+      "0": "Disperse Brown 1",
+      "1": "--",
+      "2": "23355-64-8",
+      "3": "5 mg/l"
+    },
+    {
+      "0": "Disperse Red 1",
+      "1": "11110",
+      "2": "2872-52-8",
+      "3": "5 mg/l"
+    },
+    {
+      "0": "Disperse Red 11",
+      "1": "62015",
+      "2": "2872-48-2",
+      "3": "5 mg/l"
+    },
+    {
+      "0": "Disperse Red 17",
+      "1": "11210",
+      "2": "3179-89-3",
+      "3": "5 mg/l"
+    },
+    {
+      "0": "Disperse Orange 1",
+      "1": "11080",
+      "2": "2581-69-3",
+      "3": "5 mg/l"
+    },
+    {
+      "0": "Disperse Orange 3",
+      "1": "11005",
+      "2": "730-40-5",
+      "3": "5 mg/l"
+    },
+    {
+      "0": "Disperse Orange 11",
+      "1": "60700",
+      "2": "82-28-0",
+      "3": "5 mg/l"
+    },
+    {
+      "0": "Disperse Orange 37",
+      "1": "--",
+      "2": "12223-33-5",
+      "3": "5 mg/l"
+    },
+    {
+      "0": "Disperse Orange 767",
+      "1": "--",
+      "2": "51811-42-8",
+      "3": "5 mg/l"
+    },
+    {
+      "0": "Disperse Yellow 1",
+      "1": "10345",
+      "2": "119-15-3",
+      "3": "1 mg/l"
+    },
+    {
+      "0": "Disperse Yellow 3",
+      "1": "11855",
+      "2": "2832-40-8",
+      "3": "5 mg/l"
+    },
+    {
+      "0": "Disperse Yellow 9",
+      "1": "10375",
+      "2": "6373-73-5",
+      "3": "5 mg/l"
+    },
+    {
+      "0": "Disperse Yellow 23",
+      "1": "26070",
+      "2": "6250-22-3",
+      "3": "5 mg/l"
+    },
+    {
+      "0": "Disperse Yellow 39",
+      "1": "--",
+      "2": "12236-29-2",
+      "3": "5 mg/l"
+    },
+    {
+      "0": "Disperse Yellow 49",
+      "1": "--",
+      "2": "54824-37-2",
+      "3": "5 mg/l"
+    },
+    {
+      "0": "Acid Red 26",
+      "1": "16150",
+      "2": "3761-53-3",
+      "3": "1 mg/l"
+    },
+    {
+      "0": "Acid Violet 49",
+      "1": "42640",
+      "2": "1694-09-3",
+      "3": "1 mg/l"
+    },
+    {
+      "0": "Basic Red 9",
+      "1": "42500",
+      "2": "569-61-9",
+      "3": "1 mg/l"
+    },
+    {
+      "0": "Basic Violet 1",
+      "1": "42535",
+      "2": "8004-87-3",
+      "3": "1 mg/l"
+    },
+    {
+      "0": "Basic Violet 3",
+      "1": "42555",
+      "2": "548-62-9",
+      "3": "1 mg/l"
+    },
+    {
+      "0": "Basic Violet 14",
+      "1": "45510",
+      "2": "632-99-5",
+      "3": "1 mg/l"
+    },
+    {
+      "0": "Direct Black 38",
+      "1": "30235",
+      "2": "1937-37-3",
+      "3": "1 mg/l"
+    },
+    {
+      "0": "Direct Blue 6",
+      "1": "22610",
+      "2": "2602-46-2",
+      "3": "1 mg/l"
+    },
+    {
+      "0": "Direct Red 28",
+      "1": "22120",
+      "2": "573-58-0",
+      "3": "1 mg/l"
+    },
+    {
+      "0": "Solvent Yellow 2",
+      "1": "11020",
+      "2": "60-11-7",
+      "3": "1 mg/l"
+    }
+  ],
+  [
+    {
+      "0": "Table G. References related to specification \nRelated standards \nName",
+      "1": ""
+    },
+    {
+      "0": "ASTM D4661-09",
+      "1": "Standard Test Methods for Polyurethane Raw Materials: Determination of \nTotal Chlorine in Isocyanates"
+    },
+    {
+      "0": "CEN/TR 14823:2004",
+      "1": "Durability of wood and wood based products – Quantitative determination of \nPentachlorophenol in wood – Gas chromatographic method"
+    },
+    {
+      "0": "DIN 53160",
+      "1": "Determination of the colourfastness of articles for common use – Part 1: \nResistance to artificial saliva"
+    },
+    {
+      "0": "DIN 54231",
+      "1": "Textiles – Detection of disperse dyestuffs"
+    },
+    {
+      "0": "EN 71-10",
+      "1": "Safety of toys - Part 10: Organic chemical compounds – Sample preparation \nand extraction"
+    },
+    {
+      "0": "EN 71-11",
+      "1": "Safety of toys – Part 11: Organic chemical compounds - Methods of analysis"
+    },
+    {
+      "0": "EN 648",
+      "1": "Paper and board intended to come into contact with foodstuffs - \nDetermination of the fastness of fluorescent whitened paper and board"
+    },
+    {
+      "0": "EN 14362-1",
+      "1": "Textiles – Methods for the determination of certain aromatic amines derived \nfrom azocolorants - Part 1: Detection of the use of certain azo colorants \naccessible without extraction"
+    },
+    {
+      "0": "EN 14362-2",
+      "1": "Textiles - Methods for determination of certain aromatic amines derived from \nazo colorants - Part 2: Detection of the use of certain azo colorants accessible \nby extracting the fibres"
+    },
+    {
+      "0": "EN 14372",
+      "1": "Child use and care articles - Cutlery and feeding utensils - Safety \nrequirements and tests"
+    },
+    {
+      "0": "ISO 11885",
+      "1": "Water quality - Determination of 33 elements by inductively coupled plasma \natomic emission spectroscopy"
+    },
+    {
+      "0": "ISO 11890-2",
+      "1": "Paint and varnishes – Determination of volatile organic compound (VOC) \ncontent – part 2: Gas-chromatographic method"
+    },
+    {
+      "0": "ISO 16000-3",
+      "1": "Indoor air - Part 3: Determination of formaldeyhde and other carbonyl \ncompounds - Active sampling method"
+    },
+    {
+      "0": "ISO 16000-6",
+      "1": "Indoor air - Part 6: Determination of volatile organic compounds in indoor \nand test chamber air by active sampling on Tenax TA® sorbent, thermal \ndesorption and gas chromatography using MS/FID"
+    },
+    {
+      "0": "ISO 16000-9",
+      "1": "Indoor air - Part 9: Determination of the emission of volatile organic \ncompounds from building products and furnishing - Emission test chamber \nmethod"
+    },
+    {
+      "0": "ISO 17070",
+      "1": "Leather – Chemical tests – Determination of pentachlorophenol content.  \nNote: also applied to other materials in this specification."
+    },
+    {
+      "0": "ISO 18287",
+      "1": "Soil quality -- Determination of polycyclic aromatic hydrocarbons (PAH) -- Gas \nchromatographic method with mass spectrometric detection (GC-MS)"
+    },
+    {
+      "0": "ISO 14184-1",
+      "1": "Textiles - Determination of formaldehyde - Part 1: Free and hydrolysed \nformaldehyde (water extraction method)"
+    },
+    {
+      "0": "LMBG B 82-10-1",
+      "1": "The German Foodstuff and Consumer Product legislation"
+    },
+    {
+      "0": "Montreal Protocol",
+      "1": "http://ozone.unep.org/Publications/MP_Handbook/Section_1.1_The_Montrea\nl_Protocol/"
+    },
+    {
+      "0": "VDI 2100/2",
+      "1": "Determination of gaseous compounds in ambient air \nDetermination of indoor air pollutants \nGas chromatographic determination of organic compounds"
+    }
+  ]
+]
