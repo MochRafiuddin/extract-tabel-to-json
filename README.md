@@ -27,8 +27,8 @@ A simple web-based tool to extract tables from PDF files using Camelot. Built wi
 
 1. Clone this repository or download the ZIP:
    ```bash
-   git clone https://github.com/yourusername/pdf-table-extractor.git
-   cd pdf-table-extractor
+   git clone https://github.com/MochRafiuddin/extract-tabel-to-json.git
+   cd extract-tabel-to-json
    ```
 
 2. Install dependencies:
